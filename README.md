@@ -196,6 +196,7 @@ int main(int argc, char **argv)
 
 ```
 ## Output:
+![Output](https://github.com/naramala-niharika/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/blob/main/c1.png?raw=true)
 
 
 
